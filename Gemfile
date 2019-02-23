@@ -3,4 +3,4 @@ source 'https://rubygems.org'
 gemspec
 
 gem 'jekyll-paginate'
-gem 'tactile'
+gem 'jekyll-tactile'
